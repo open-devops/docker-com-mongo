@@ -13,9 +13,15 @@ setting the environment variables as following example:
 export PATH=$PATH:/usr/devops/mongodb/bin
 
 Then using mongo for operating
+
 [root@host142 ~]# mongo
+
 MongoDB shell version: 3.2.6
+
 connecting to: test
+
 Server has startup warnings:
+
 ...
+
 >
