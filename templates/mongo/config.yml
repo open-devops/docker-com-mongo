@@ -1,0 +1,8 @@
+name: OpenDevOps-Mongo
+description: |
+  Open DevOps Mongo Catalog
+version: 1.0.0
+category: DB 
+maintainer: open.devops@gmail.com
+license: Apache 2
+projectURL: https://github.com/open-devops/docker-com-mongo

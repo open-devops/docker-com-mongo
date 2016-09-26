@@ -1,0 +1,5 @@
+# database service: mongodb
+mongo:
+  image: devopsopen/docker-com-mongo
+  ports:
+    - "17017:27017"
